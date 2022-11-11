@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince26ayush&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xlaxzeff8iwo3zrvr4m89jo2u)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prince26ayushshow_owner)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prince26ayush&repo=scan-and-play)](https://github.com/anuraghazra/github-readme-stats)
 
 
