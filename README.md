@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince26ayush&hide=stars,prs&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince26ayush&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/prince26ayush/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince26ayush&repo=github-readme-stats&theme=merko" />
 </a>
 
