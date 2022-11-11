@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince26ayush&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xlaxzeff8iwo3zrvr4m89jo2u)
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
