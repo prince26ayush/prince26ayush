@@ -20,4 +20,24 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prince26ayush&repo=scanotics)](https://github.com/prince26ayush/scanotics)
 
+name: Waka Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{1bcc71bb-8682-4043-8eff-2036d47d6c96}}
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
+
 
