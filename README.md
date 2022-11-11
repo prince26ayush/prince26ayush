@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prince26ayush&repo=scanotics&theme=merko)](https://github.com/prince26ayush/scanotics)
 
+<img
+  src="https://github.com/prince26ayush/scan-and-play/blob/main/images/stat.svg"
+  alt="66a09261-04a5-4613-bfee-0f91c468674f"
+/>
+
 
 
 
